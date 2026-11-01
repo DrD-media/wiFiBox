@@ -1,0 +1,17 @@
+{
+  "playlists": [
+    {
+      "id": 0,
+      "name": "Избранное",
+      "owner_id": 1,
+      "last_updated": "2026-02-13",
+      "track_ids": [
+        3,
+        4,
+        5,
+        1
+      ],
+      "is_public": "yes"
+    }
+  ]
+}

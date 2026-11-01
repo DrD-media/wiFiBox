@@ -1,0 +1,17 @@
+{
+  "project": "SoundBoxRadio",
+  "platform": "Windows x64",
+  "python": "3.11.9",
+  "node": "24.19.0",
+  "pcm": "48000 Hz / s16le / stereo / 960 frames",
+  "i2s_pins": {
+    "lrck": 25,
+    "din": 26,
+    "bck": 27
+  },
+  "sha256": {
+    "runtime/python/python.exe": "5f7b89a612c9b8af1d6456cdfcd1dbe5ca630849e79aebced9bee9a6694952ec",
+    "runtime/node/node.exe": "3602f2bb1a10f2cbab4c36886218a33c1ab3db87290e73b033c46c77147d0237"
+  },
+  "firmware_project": "../SoundBoxFirmware"
+}

@@ -1,0 +1,136 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "name": "WOT",
+      "type": "site",
+      "owner_id": 1,
+      "cover": "WOT main theme.jpg",
+      "created_date": "2026-01-09",
+      "last_updated": "2026-01-09",
+      "track_ids": [3, 4, 5],
+      "description": "World of Tanks музыкальная коллекция",
+      "is_public": "yes"
+    },
+    {
+      "id": 2,
+      "name": "Pubg",
+      "type": "user",
+      "owner_id": 1,
+      "cover": "pubg.jpg",
+      "created_date": "2026-01-09",
+      "last_updated": "2026-01-09",
+      "track_ids": [1, 13, 14],
+      "description": "Песни из PUBG",
+      "is_public": "no"
+    },
+    {
+      "id": 3,
+      "name": "Рок-хиты",
+      "type": "site",
+      "owner_id": 1,
+      "cover": "suggestion_5_3fbe455136ad4b2385d19f4f1fa63b24.jpg",
+      "created_date": "2026-01-10",
+      "last_updated": "2026-01-11",
+      "track_ids": [10, 11, 12],
+      "description": "Лучшие рок-композиции",
+      "is_public": "yes"
+    },
+    {
+      "id": 4,
+      "name": "Для работы",
+      "type": "user",
+      "owner_id": 2,
+      "cover": "anix.jpg",
+      "created_date": "2026-01-08",
+      "last_updated": "2026-01-10",
+      "track_ids": [6, 7, 8, 9],
+      "description": "Фоновая музыка для концентрации",
+      "is_public": "partly"
+    },
+    {
+      "id": 5,
+      "name": "Игровые саундтреки",
+      "type": "site",
+      "owner_id": 1,
+      "cover": "WOT airfield.jpg",
+      "created_date": "2026-01-05",
+      "last_updated": "2026-01-09",
+      "track_ids": [2, 3, 4, 5],
+      "description": "Саундтреки из популярных игр",
+      "is_public": "yes"
+    },
+    {
+      "id": 6,
+      "name": "Мой микс",
+      "type": "user",
+      "owner_id": 1,
+      "cover": "suggestion_4_0462bdb103504ea187c4a025dfbd0f7b.png",
+      "created_date": "2026-01-12",
+      "last_updated": "2026-01-12",
+      "track_ids": [1, 10, 12],
+      "description": "Персональная подборка",
+      "is_public": "no"
+    },
+    {
+      "id": 7,
+      "name": "Мой микс",
+      "type": "user",
+      "owner_id": 1,
+      "cover": "suggestion_4_0462bdb103504ea187c4a025dfbd0f7b.png",
+      "created_date": "2026-01-12",
+      "last_updated": "2026-01-12",
+      "track_ids": [1, 10, 12],
+      "description": "Персональная подборка",
+      "is_public": "no"
+    },
+    {
+      "id": 8,
+      "name": "Мой микс",
+      "type": "user",
+      "owner_id": 1,
+      "cover": "suggestion_4_0462bdb103504ea187c4a025dfbd0f7b.png",
+      "created_date": "2026-01-12",
+      "last_updated": "2026-01-12",
+      "track_ids": [1, 10, 12],
+      "description": "Персональная подборка",
+      "is_public": "no"
+    },
+    {
+      "id": 9,
+      "name": "Мой микс",
+      "type": "user",
+      "owner_id": 1,
+      "cover": "suggestion_4_0462bdb103504ea187c4a025dfbd0f7b.png",
+      "created_date": "2026-01-12",
+      "last_updated": "2026-01-12",
+      "track_ids": [1, 10, 12],
+      "description": "Персональная подборка",
+      "is_public": "no"
+    },
+    {
+      "id": 10,
+      "name": "WOT",
+      "type": "site",
+      "owner_id": 1,
+      "cover": "WOT main theme.jpg",
+      "created_date": "2026-01-09",
+      "last_updated": "2026-01-09",
+      "track_ids": [3, 4, 5],
+      "description": "World of Tanks музыкальная коллекция",
+      "is_public": "yes"
+    },
+    {
+      "id": 11,
+      "name": "WOT",
+      "type": "site",
+      "owner_id": 1,
+      "cover": "WOT main theme.jpg",
+      "created_date": "2026-01-09",
+      "last_updated": "2026-01-09",
+      "track_ids": [3, 4, 5],
+      "description": "World of Tanks музыкальная коллекция",
+      "is_public": "yes"
+    }
+  ]
+}

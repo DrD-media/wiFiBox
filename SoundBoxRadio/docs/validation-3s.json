@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-22 03:46:51",
+  "checks": {
+    "launcher_empty_path_external_network_blocked": true,
+    "local_web_assets": true,
+    "two_clients_fragmented_pcm_3_seconds": [
+      {
+        "bytes": 576000,
+        "seconds": 2.984,
+        "longest_gap_ms": 32.0,
+        "nonzero": true
+      },
+      {
+        "bytes": 576000,
+        "seconds": 2.984,
+        "longest_gap_ms": 32.0,
+        "nonzero": true
+      }
+    ],
+    "simultaneous_music_microphone": {
+      "mic_active": true,
+      "mic_peak": 0,
+      "mic_overflows": 0,
+      "music_underruns": 0,
+      "output_peak": 20,
+      "limiter_db": -0.0,
+      "maximum_mic_peak_samples": 10
+    },
+    "microphone_reopen": true,
+    "zero_volume_silence": true,
+    "emergency_stop_silence": true
+  },
+  "physical_esp32_tested": false,
+  "ui_visual_tested": false,
+  "microphone": {
+    "default": true,
+    "host": "MME",
+    "id": 1,
+    "name": "Microphone (fifine SC3)"
+  }
+}

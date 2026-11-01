@@ -1,0 +1,74 @@
+#*
+# Виртуальное окружение
+.venv/
+firmware/.pio/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite3
+
+# Flask
+instance/
+*.log
+logs/
+
+# Node
+frontend/node_modules/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+!frontend/package-lock.json
+
+# React build
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+
+# Медиа файлы
+backend/music_files/
+backend/covers/
+backend/track_texts/
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Временные файлы
+*.log
+temp/
+tmp/
+backup/
+
+# Игнор конкретных папок 
+другие версии/backend 2.8
+другие версии/frontend 2.
+
+дерево — копия.txt
+дерево 3.txt
+дерево.txt

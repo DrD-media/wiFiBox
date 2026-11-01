@@ -1,0 +1,363 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "filename": "track 1.mp3",
+      "title": "theme (metal rock cover)",
+      "artist": "PUBG",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке.",
+      "cover": "maxresdefault.jpg",
+      "created_date": "2024-01-15",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    },
+    {
+      "id": 3,
+      "filename": "track 3.mp3",
+      "title": "WOT main theme",
+      "artist": "Andrey_Kulik and Andrius_Klimka",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "WOT main theme.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "filename": "track 4.mp3",
+      "title": "WOT Аэродром (Интро)",
+      "artist": "Andrius_Klimka",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "WOT airfield.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "filename": "track 5.mp3",
+      "title": "WOT Химмельсдорф (Интро)",
+      "artist": "Andrius_Klimka",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "WOT himmelsdorf.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "filename": "track 9.mp3",
+      "title": "Ansi bas la vida",
+      "artist": "Indila",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "600x600bb.jpeg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "filename": "track 10.mp3",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "origBel.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "filename": "track 11.mp3",
+      "title": "Hymn For The Weekend",
+      "artist": "Coldplay",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "unnamed cold.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "filename": "track 12.mp3",
+      "title": "On the Floor",
+      "artist": "Pitbull feat. Jennifer Lopez",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "300x300bb.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "filename": "track 13.mp3",
+      "title": "Сила рун - MAIN (PUBG MOBILE)",
+      "artist": "PUBG",
+      "description": "Тема PUBG",
+      "cover": "pabgrune_1.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "filename": "track 14.mp3",
+      "title": "Сила рун - OST (PUBG MOBILE)",
+      "artist": "PUBG",
+      "description": "Тема PUBG",
+      "cover": "pabgrune_2.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "filename": "track 15.mp3",
+      "title": "I Got You",
+      "artist": "Bebe Rexha",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "igy.jpg",
+      "created_date": null,
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "id": 1,
+          "title": "Оригинальный текст",
+          "filename": "1.1.txt",
+          "language": "en"
+        },
+        {
+          "id": 2,
+          "title": "Русский перевод",
+          "filename": "1.2.txt",
+          "language": "ru"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "filename": "track 16.mp3",
+      "title": "Amore",
+      "artist": "Dj_Layla Sianna",
+      "description": "Кавер на главную тему PUBG в метал-рок аранжировке",
+      "cover": "cover_20261009_095626.jpg",
+      "created_date": "",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": [
+        {
+          "filename": "1.1.txt",
+          "id": 1,
+          "language": "en",
+          "title": "Оригинальный текст"
+        },
+        {
+          "filename": "1.2.txt",
+          "id": 2,
+          "language": "ru",
+          "title": "Русский перевод"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "filename": "track_20260517_222145.mp3",
+      "title": "Royalty feat Maestro Chives Neoni",
+      "artist": "Egzod",
+      "description": "Egzod - Royalty",
+      "cover": "cover_20260517_222744.jpg",
+      "created_date": "2026-05-17",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    },
+    {
+      "id": 19,
+      "filename": "track_20261009_094932.mp3",
+      "title": "Runaway",
+      "artist": "Aurora",
+      "description": "",
+      "cover": "cover_20261009_095052.jpg",
+      "created_date": "2026-10-09",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    },
+    {
+      "id": 20,
+      "filename": "track_20261009_095154.mp3",
+      "title": "Fairy Tail OST",
+      "artist": "Dragon Force",
+      "description": "",
+      "cover": "cover_20261009_095319.jpg",
+      "created_date": "2026-10-09",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    },
+    {
+      "id": 21,
+      "filename": "track_20261009_095341.mp3",
+      "title": "Lost In the Storm",
+      "artist": "Ori (feat Aeralie Brighton)",
+      "description": "",
+      "cover": "cover_20261009_095408.jpg",
+      "created_date": "2026-10-09",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    },
+    {
+      "id": 22,
+      "filename": "track_20261009_095428.mp3",
+      "title": "On_On",
+      "artist": "Cartoon Jja Daniel Levi",
+      "description": "",
+      "cover": "cover_20261009_095528.jpg",
+      "created_date": "2026-10-09",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    },
+    {
+      "id": 23,
+      "filename": "track_20261021_133603_b1830f4b.mp3",
+      "title": "Cartoon_Jja",
+      "artist": "On_On",
+      "description": "",
+      "cover": "cover_20261021_133626_4876249b.jpg",
+      "created_date": "2026-10-21",
+      "uploaded_by": 1,
+      "is_public": "yes",
+      "track_texts": []
+    }
+  ]
+}

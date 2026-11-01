@@ -1,0 +1,165 @@
+============================
+    🐍 PYTHON BACKEND
+     http://localhost:5000
+============================
+
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.105:5000
+Press CTRL+C to quit
+127.0.0.1 - - [27/Sep/2026 21:54:07] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:07] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:07] "GET /api/playlists HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:07] "GET /api/tracks HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:07] "GET /api/tracks HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:07] "GET /api/playlists HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/anix.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/tam%20234.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/WOT%20himmelsdorf.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/WOT%20main%20theme.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/m1000x1000.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/WOT%20airfield.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/maxresdefault.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/onesLegends.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/600x600bb.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/origBel.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/300x300bb.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/unnamed%20cold.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/pabgrune_1.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/pabgrune_2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/igy.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:08] "GET /api/cover/cover_20260517_222744.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Sep/2026 21:54:09] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:11] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:13] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:15] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:17] "GET /api/radio/status HTTP/1.1" 200 -
+🎵 Запущено: track 1.mp3
+127.0.0.1 - - [27/Sep/2026 21:54:19] "POST /api/radio/play/1 HTTP/1.1" 200 -
+192.168.0.72 - - [27/Sep/2026 21:54:19] "GET /api/radio/stream HTTP/1.1" 200 -
+[PCM OUT] Чанк #00010 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [f0 fc 3e f3 c2 f9 de fa 7e f1 08 fa f5 e9 3c f3]
+127.0.0.1 - - [27/Sep/2026 21:54:19] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00020 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [38 df 64 01 56 f7 65 16 40 12 8e 2d 42 23 80 3b]
+[PCM OUT] Чанк #00030 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [85 fa c4 06 a8 fa 3b 08 fc fb 23 09 66 fe 32 09]
+[PCM OUT] Чанк #00040 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [e7 0e 02 f4 cf 0d 6b f7 2d 0c b7 fa 3b 0a 6b fd]
+[PCM OUT] Чанк #00050 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [44 0a 7b 15 40 fa 4e 04 ae e7 73 f1 e1 e3 34 eb]
+[PCM OUT] Чанк #00060 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [7f 02 29 0d f7 03 94 0b be 05 74 0b 8a 07 5b 0d]
+[PCM OUT] Чанк #00070 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [f7 00 a1 fb 7a 02 ff fb 1f 05 b5 fb b8 08 e7 fa]
+[PCM OUT] Чанк #00080 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ce 00 7d f3 f7 ff 26 f6 21 ff 42 f8 21 fe a2 f9]
+[PCM OUT] Чанк #00090 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [63 1b 5f 14 c4 13 69 05 6e 0d b2 fc 87 14 db 04]
+[PCM OUT] Чанк #00100 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [47 d5 99 e4 a2 d6 1d e6 39 d5 29 e5 38 d4 d0 e3]
+127.0.0.1 - - [27/Sep/2026 21:54:21] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00110 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [5c 12 cf 16 37 12 62 19 e5 12 4d 1c 67 14 02 1f]
+[PCM OUT] Чанк #00120 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [9f 08 85 02 88 06 f1 02 a9 04 c6 03 f8 02 6c 05]
+[PCM OUT] Чанк #00130 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [85 f4 0f eb 03 f8 19 ee 43 f7 fa ef 2b ef 75 ec]
+[PCM OUT] Чанк #00140 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [eb 08 ac f8 a0 0b 2e fd e5 08 cb fb cb 03 04 f6]
+[PCM OUT] Чанк #00150 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [84 0b cc 0b d7 0c ec 09 90 0c f4 07 f2 0a a2 06]
+[PCM OUT] Чанк #00160 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [6f f1 39 fe 52 f2 2c fd c0 f2 89 fb 29 f3 a0 f9]
+[PCM OUT] Чанк #00170 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ac 01 39 09 b8 00 43 07 8f 00 0d 05 4e 01 d7 02]
+[PCM OUT] Чанк #00180 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [48 03 e7 f3 3a 06 dc f9 90 04 04 fa 14 02 2a f7]
+127.0.0.1 - - [27/Sep/2026 21:54:23] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00190 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [0a 04 7b 0b e8 02 74 0b c0 01 c1 0a 31 01 86 09]
+[PCM OUT] Чанк #00200 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [19 fe 81 fa 44 ff 6d fb ad ff eb fb 03 ff 85 fb]
+[PCM OUT] Чанк #00210 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [5d 01 84 09 b5 00 f0 09 ca 00 df 0a b1 01 26 0c]
+[PCM OUT] Чанк #00220 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [e6 04 20 08 35 06 8f 08 9b 05 f0 07 20 05 7f 0a]
+[PCM OUT] Чанк #00230 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [4b 06 46 f8 7f 05 cb f6 1f 04 b1 f5 af 02 e9 f4]
+[PCM OUT] Чанк #00240 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [d0 d2 0e d4 f0 d3 ce d4 7d d6 35 d6 73 d9 5e d7]
+[PCM OUT] Чанк #00250 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [85 fe ef f7 16 00 1e f8 c4 01 70 f9 6e 03 d9 fb]
+[PCM OUT] Чанк #00260 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [da 02 10 00 62 01 c0 fa 1e ff 25 f6 b3 ff dc f7]
+[PCM OUT] Чанк #00270 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [de fc 0c fa 3f 05 8f ff 77 0e 0b 08 87 13 be 0e]
+[PCM OUT] Чанк #00280 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [6e 00 bb 03 cf ff ce 03 ce ff 79 04 0f 00 1a 05]
+127.0.0.1 - - [27/Sep/2026 21:54:25] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00290 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [91 f8 3e f9 50 f7 cf f9 c3 f6 39 fa fb f6 0b fa]
+[PCM OUT] Чанк #00300 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [49 f8 8a 06 09 f6 e4 06 6c f4 c8 fe 79 f8 5a f7]
+[PCM OUT] Чанк #00310 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [9f ff b4 00 0f 00 6f 01 7c ff 6d 00 85 fe e7 ff]
+[PCM OUT] Чанк #00320 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [db f5 6e fb 71 f6 72 fc 16 f7 31 fd a1 f7 ce fc]
+[PCM OUT] Чанк #00330 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ca f6 1d ff 6a f7 5d 02 e2 f8 4d 05 9e fa 60 07]
+[PCM OUT] Чанк #00340 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [29 f2 43 ff a1 d4 4e dd ae e2 06 ec 94 fc f9 01]
+[PCM OUT] Чанк #00350 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [76 fe ef f2 97 fa c9 eb ee fb c1 eb 5e 06 a2 f6]
+[PCM OUT] Чанк #00360 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [b3 f4 91 ff d8 f6 40 fe da f9 72 fc e7 fa 8f f9]
+127.0.0.1 - - [27/Sep/2026 21:54:27] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00370 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [aa dc e2 ee 1c d9 8e ec f3 d8 33 ed 67 dd a9 ef]
+[PCM OUT] Чанк #00380 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [5e f8 8b f0 39 f3 9e ee 16 f4 a9 f5 7f fa df 01]
+[PCM OUT] Чанк #00390 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [f1 04 1a 12 46 0b 56 18 fb 0d 5b 18 f4 0d 55 14]
+🎵 Запущено: track 2.mp3
+127.0.0.1 - - [27/Sep/2026 21:54:28] "POST /api/radio/play/2 HTTP/1.1" 200 -
+[PCM OUT] Чанк #00400 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00]
+[PCM OUT] Чанк #00410 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [be ff cb ff b6 ff c8 ff ae ff c2 ff a6 ff b9 ff]
+[PCM OUT] Чанк #00420 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [6b 00 6a 00 50 00 82 00 5b 00 a7 00 76 00 cd 00]
+[PCM OUT] Чанк #00430 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [97 fe f5 fd 91 fe c5 fd b4 fd b1 fc 78 fd 44 fc]
+[PCM OUT] Чанк #00440 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [42 01 b8 ff 47 01 b7 ff 49 01 a9 ff 58 01 9a ff]
+127.0.0.1 - - [27/Sep/2026 21:54:29] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00450 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [2c 09 d7 09 01 09 74 09 a7 08 f2 08 c1 08 0a 09]
+[PCM OUT] Чанк #00460 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [64 fa 4a f4 d2 f9 94 f3 28 f9 c6 f2 e7 f9 6e f3]
+[PCM OUT] Чанк #00470 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [f7 ff dc 02 ca ff b7 02 aa ff 9d 02 8f ff 8a 02]
+[PCM OUT] Чанк #00480 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [3f 01 d7 fc 3a 01 d5 fc 44 01 d6 fc 52 01 d3 fc]
+[PCM OUT] Чанк #00490 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [a4 fa 20 fb 13 fa ef fa 32 fa 41 fb e4 fa a4 fb]
+[PCM OUT] Чанк #00500 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [2d fe 68 fc 09 ff 4f fd f3 ff 27 fe a5 ff ac fd]
+[PCM OUT] Чанк #00510 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [21 00 9e 00 ea ff 5f 00 8a ff 61 00 d8 ff a8 00]
+[PCM OUT] Чанк #00520 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [be 00 7b 01 4c 00 c7 00 01 00 41 00 50 ff 94 ff]
+[PCM OUT] Чанк #00530 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [3d fd 5f fe 5b fd 4e fe 73 fd 30 fe 87 fd 0e fe]
+[PCM OUT] Чанк #00540 | Размер: 4096B | Max Q: 5/10 | Клиенты: 1 | HEX (16B): [6a fe 5e 02 6a fe 70 02 80 fe 91 02 9a fe b9 02]
+127.0.0.1 - - [27/Sep/2026 21:54:31] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00550 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [bf 04 63 04 de 04 86 04 ee 04 ac 04 33 05 13 05]
+[PCM OUT] Чанк #00560 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [38 ff 8c ff 37 ff a0 ff 34 ff a5 ff 32 ff a4 ff]
+[PCM OUT] Чанк #00570 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [d3 f7 84 f5 fa f7 ce f5 b7 f6 ad f4 27 f5 30 f3]
+[PCM OUT] Чанк #00580 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [5c fb e4 09 9c fe 53 08 62 01 fd 06 ce 03 84 04]
+[PCM OUT] Чанк #00590 | Размер: 4096B | Max Q: 7/10 | Клиенты: 1 | HEX (16B): [9f ed 59 fd 9c ed 9b fe ed ee cf 00 1c f1 2f 02]
+[PCM OUT] Чанк #00600 | Размер: 4096B | Max Q: 2/10 | Клиенты: 1 | HEX (16B): [27 f1 e9 02 e9 f1 6c 02 29 f3 14 02 58 f5 05 02]
+[PCM OUT] Чанк #00610 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [a9 ed a6 01 52 ed 7b 02 b7 ed 14 03 d8 ee 73 03]
+127.0.0.1 - - [27/Sep/2026 21:54:33] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00620 | Размер: 4096B | Max Q: 1/10 | Клиенты: 1 | HEX (16B): [ba e4 cc fb bf e5 58 fb 95 e6 c4 f9 5b e8 1f f8]
+[PCM OUT] Чанк #00630 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [26 f5 31 00 29 f7 d1 00 49 f9 ab 01 7f fb 47 02]
+[PCM OUT] Чанк #00640 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [7d f0 b8 06 1e f5 b4 04 a6 f9 d0 02 d8 fc e5 00]
+[PCM OUT] Чанк #00650 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [2b f8 d3 08 33 fb 91 07 55 fd 35 06 e4 ff 4c 04]
+[PCM OUT] Чанк #00660 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [71 fc c1 00 92 fe a0 fc e3 02 b4 f9 0b 0a 5c fa]
+[PCM OUT] Чанк #00670 | Размер: 4096B | Max Q: 5/10 | Клиенты: 1 | HEX (16B): [06 ff cd ee 46 0c 0c fc 11 17 cc 09 5d 1d 2a 15]
+[PCM OUT] Чанк #00680 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [40 25 cf 35 c5 23 6d 33 b7 21 b5 2c c0 21 c4 25]
+[PCM OUT] Чанк #00690 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [33 fa 97 41 c9 fd 58 4d 04 07 fb 5a 63 0a 0f 69]
+[PCM OUT] Чанк #00700 | Размер: 4096B | Max Q: 8/10 | Клиенты: 1 | HEX (16B): [e1 ed 6a f0 da fc 41 03 7f 0a 5f ff 34 11 e9 ed]
+[PCM OUT] Чанк #00710 | Размер: 4096B | Max Q: 6/10 | Клиенты: 1 | HEX (16B): [6f ec 76 03 d3 f0 a6 06 51 f2 bd 0b 6d f2 4a 12]
+127.0.0.1 - - [27/Sep/2026 21:54:35] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00720 | Размер: 4096B | Max Q: 4/10 | Клиенты: 1 | HEX (16B): [65 2b 63 01 42 2e 47 01 7b 31 23 06 a2 32 21 0c]
+[PCM OUT] Чанк #00730 | Размер: 4096B | Max Q: 5/10 | Клиенты: 1 | HEX (16B): [84 ee 89 f6 44 e2 88 ee 95 d5 fd e7 be c9 aa e3]
+[PCM OUT] Чанк #00740 | Размер: 4096B | Max Q: 1/10 | Клиенты: 1 | HEX (16B): [07 ef 96 fe c1 ed ba fb 6a f1 99 fd 83 f3 af ff]
+[PCM OUT] Чанк #00750 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [09 01 31 04 2d fd ec ff 70 fa 1f ff b4 fc 57 fd]
+[PCM OUT] Чанк #00760 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ba f6 4d 06 3c f4 8c fe 63 f2 13 f8 f4 ef 3e f2]
+[PCM OUT] Чанк #00770 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [b2 dc 94 e7 46 df 96 f4 dc de 06 00 9b dc f9 05]
+[PCM OUT] Чанк #00780 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [9e f4 bc 08 6e f4 d2 07 ed f4 5d 08 db f4 78 09]
+127.0.0.1 - - [27/Sep/2026 21:54:37] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00790 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [73 ed bf 38 db ec 9c 38 4c eb da 37 27 e8 5b 35]
+[PCM OUT] Чанк #00800 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [29 ea e2 ed b5 f3 1f f5 7a fe 14 00 d9 05 c3 0a]
+[PCM OUT] Чанк #00810 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [62 09 84 2c e1 02 14 27 65 fe dc 1e c1 fe d0 1c]
+[PCM OUT] Чанк #00820 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [3a 20 dc 2a b4 22 5b 31 ab 25 f4 38 58 28 46 40]
+[PCM OUT] Чанк #00830 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [65 c3 8b dc bc c9 89 dc ec ca 56 d8 cd cb 5d d5]
+[PCM OUT] Чанк #00840 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ce e8 78 ec 2b ec 6c eb 65 f0 4a eb 5e f3 74 eb]
+[PCM OUT] Чанк #00850 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [39 0b e6 17 37 0f 4a 1b 51 12 26 1f e5 14 63 23]
+[PCM OUT] Чанк #00860 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ca fd ac f2 d7 f8 cd f0 05 f1 5b ee c0 ea 4b ee]
+[PCM OUT] Чанк #00870 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [fa f4 81 e3 ab f4 82 e1 3b f6 f5 df 4e f9 02 de]
+[PCM OUT] Чанк #00880 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [ab 10 46 08 22 14 e5 04 31 1a 7d 02 f1 20 00 02]
+127.0.0.1 - - [27/Sep/2026 21:54:39] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00890 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [45 d3 f0 c6 0f ce 99 c4 da ca 7d c1 c0 c4 fc ba]
+[PCM OUT] Чанк #00900 | Размер: 4096B | Max Q: 0/10 | Клиенты: 1 | HEX (16B): [0a bf 90 e9 68 be f1 e5 6e c3 63 e8 1c c5 88 e9]
+[PCM OUT] Чанк #00910 | Размер: 4096B | Max Q: 2/10 | Клиенты: 1 | HEX (16B): [55 f2 61 f6 c9 f1 ee f9 fe f0 a7 fd 34 ef 05 00]
+[PCM OUT] Чанк #00920 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [d4 f2 e5 1c 6f f0 fa 1b 2b f0 00 20 7c f2 3e 29]
+[PCM OUT] Чанк #00930 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [ba 22 67 3c 9a 1c 4b 38 b4 12 80 2e 9d 06 a3 1f]
+[PCM OUT] Чанк #00940 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [71 48 06 f5 38 4d 3c fc 0e 51 ad 01 0c 54 53 06]
+[PCM OUT] Чанк #00950 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [03 cf cf 54 ee c7 91 4f dc c2 1f 48 64 c0 b6 40]
+[PCM OUT] Чанк #00960 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [42 28 ff 00 e4 30 e3 02 a7 37 ed 03 6e 3d 18 06]
+127.0.0.1 - - [27/Sep/2026 21:54:41] "GET /api/radio/status HTTP/1.1" 200 -
+[PCM OUT] Чанк #00970 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [a7 46 1a 07 70 4c 4c 0d d1 4c df 0f 5a 48 4a 0f]
+[PCM OUT] Чанк #00980 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [db 33 b7 6c bf 2e a4 66 e2 26 d2 5d b8 19 ba 53]
+[PCM OUT] Чанк #00990 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [77 20 e7 f5 4e 1e 39 ee d9 1b f2 e6 59 17 12 df]
+[PCM OUT] Чанк #01000 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [bc 17 99 d2 bb 19 ad d6 99 17 df d6 83 13 59 d5]
+[PCM OUT] Чанк #01010 | Размер: 4096B | Max Q: 9/10 | Клиенты: 1 | HEX (16B): [63 0e 59 dd 1c 06 6c d0 f3 fb e5 c5 58 f2 cd bf]
+[PCM OUT] Чанк #01020 | Размер: 4096B | Max Q: 10/10 | Клиенты: 1 | HEX (16B): [c3 cf 9c 28 c3 cd 93 27 4e cb dd 22 36 c8 5c 1c]
+127.0.0.1 - - [27/Sep/2026 21:54:43] "POST /api/radio/stop HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:43] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:45] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:47] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:49] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:51] "GET /api/radio/status HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2026 21:54:53] "GET /api/radio/status HTTP/1.1" 200 -
