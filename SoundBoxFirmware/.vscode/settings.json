@@ -1,0 +1,5 @@
+{
+    "files.exclude": {"legacy": true, "runtime": true},
+    "search.exclude": {"legacy": true, "runtime": true, ".pio": true},
+    "C_Cpp.default.configurationProvider": "platformio.platformio-ide"
+}

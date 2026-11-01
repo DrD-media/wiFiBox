@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Собрать ESP32 без интернета",
+      "type": "process",
+      "command": "${workspaceFolder}/runtime/python/python.exe",
+      "args": ["-I", "-X", "utf8", "${workspaceFolder}/tools/firmware.py", "--build"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "group": {"kind": "build", "isDefault": true},
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Прошить ESP32 через USB",
+      "type": "process",
+      "command": "${workspaceFolder}/runtime/python/python.exe",
+      "args": ["-I", "-X", "utf8", "${workspaceFolder}/tools/firmware.py", "--flash", "auto"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    }
+  ]
+}

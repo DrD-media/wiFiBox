@@ -1,0 +1,16 @@
+{
+  "project": "SoundBoxFirmware",
+  "date": "2026-10-22",
+  "renamed_from": "Temper1",
+  "active_source": "src/main.cpp",
+  "full_build_after_relocation": "passed",
+  "build_with_empty_system_PATH": "passed",
+  "external_network_blocked_during_build": true,
+  "source_and_binary_hashes_verified": true,
+  "python_import_paths_all_inside_firmware_project": true,
+  "duplicate_firmware_in_server_removed": true,
+  "server_self_check": "passed",
+  "server_api_audio_tests_passed": 17,
+  "physical_esp32_flashed": false,
+  "legacy_directory_removal": "blocked by automatic approval review; isolated from build"
+}

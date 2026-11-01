@@ -1,0 +1,16 @@
+{
+  "project": "SoundBoxFirmware",
+  "python": "3.11.9",
+  "format": "PCM 48000 Hz, signed 16-bit LE, stereo",
+  "pins": {
+    "lrck": 25,
+    "din": 26,
+    "bck": 27
+  },
+  "sha256": {
+    "src/main.cpp": "49b24e7454c4f556d233c40a635421077a26c3e64cfbf5bae8057eabbcb70437",
+    "platformio.ini": "ddc9e1684f06489ebd013e48d1936493d7f828b03c5e75ba07b2723cc2fb71d0",
+    "dist/SoundBoxRadio-app.bin": "7242b11e8f067847fb0117f69d7f68da33492a0752b4330665d28fd3e7e0b71e",
+    "dist/SoundBoxRadio-full.bin": "774f8bade55f556f7ca4ff41c0b153475e40c12dab1bdcc3b4b2390b4cdf2adc"
+  }
+}
